@@ -19,3 +19,9 @@
 <br>
 <h3 align="left">Most used Languages:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janlucakingler&show_icons=true&locale=en&layout=compact" alt="janlucakingler" /></p>
+
+<div align="center">
+  
+  ![snake gif](https://github.com/JanLucaKingler/JanLucaKingler/blob/output/github-snake-dark.svg)
+</div>
+
